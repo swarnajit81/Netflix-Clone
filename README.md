@@ -2,11 +2,11 @@
 
 In this project my aim was imitate Netflix homepage. Data is coming from an API ([https://www.themoviedb.org/documentation/api](https://www.themoviedb.org/documentation/api)). I used React Hooks for this project. Project coded by me with following Clever Programming.
 
-### 🎆✨ Live Demo => [http://netflix.orhanozkercin.com/](http://netflix.orhanozkercin.com/)
+### 🎆✨ Live Demo => [https://netflix-clone-52ed7.web.app/]
 
 ## Author ✍️  
 
-👤 <b> Orhan Özkerçin </b>
+👤 <b> Swarnajit Bhowmick </b>
 
 ## Built With
 
